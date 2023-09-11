@@ -1,0 +1,3 @@
+C:\Users\tony\OneDrive\Escritorio\semana2_progra\Tarea_semana3\tarea_semana3\tarea_semana3\obj\Debug\tarea_semana3.csproj.AssemblyReference.cache
+C:\Users\tony\OneDrive\Escritorio\semana2_progra\Tarea_semana3\tarea_semana3\tarea_semana3\obj\Debug\tarea_semana3.csproj.SuggestedBindingRedirects.cache
+C:\Users\tony\OneDrive\Escritorio\semana2_progra\Tarea_semana3\tarea_semana3\tarea_semana3\obj\Debug\tarea_semana3.csproj.CoreCompileInputs.cache
